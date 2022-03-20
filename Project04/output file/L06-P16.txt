@@ -1,0 +1,53 @@
+
+No compatibility mode selected!
+
+
+Circuit: * project04: l06-p06
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+                              * project04: l06-p06
+                              DC transfer characteristic  Sun Mar 20 12:52:24  2022
+--------------------------------------------------------------------------------
+Index   v-sweep         v(a)            v(b)            v(c)            
+--------------------------------------------------------------------------------
+0	1.500000e+01	1.500000e+01	7.142857e+00	2.000000e+01	
+
+                              * project04: l06-p06
+                              DC transfer characteristic  Sun Mar 20 12:52:24  2022
+--------------------------------------------------------------------------------
+Index   v-sweep         v(d)            v(e)            v(f)            
+--------------------------------------------------------------------------------
+0	1.500000e+01	7.142857e+00	7.142857e+00	7.142857e+00	
+
+                              * project04: l06-p06
+                              DC transfer characteristic  Sun Mar 20 12:52:24  2022
+--------------------------------------------------------------------------------
+Index   v-sweep         v(a)-v(b)       v(c)-v(d)       v(e)            
+--------------------------------------------------------------------------------
+0	1.500000e+01	7.857143e+00	1.285714e+01	7.142857e+00	
+
+                              * project04: l06-p06
+                              DC transfer characteristic  Sun Mar 20 12:52:24  2022
+--------------------------------------------------------------------------------
+Index   v-sweep         vdr1#branch     vdr2#branch     vdr3#branch     
+--------------------------------------------------------------------------------
+0	1.500000e+01	7.857143e-02	6.428571e-02	-1.42857e-01	
+
+
+Total analysis time (seconds) = 0
+
+Total elapsed time (seconds) = 0.004 
+
+Total DRAM available = 3889.320 MB.
+DRAM currently available =  618.965 MB.
+Maximum ngspice program size =   24.078 MB.
+Current ngspice program size =   11.273 MB.
+
+Shared ngspice pages =    9.496 MB.
+Text (code) pages =    5.270 MB.
+Stack = 0 bytes.
+Library pages =    2.039 MB.
+

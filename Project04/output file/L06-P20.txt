@@ -1,0 +1,53 @@
+
+No compatibility mode selected!
+
+
+Circuit: * project04: l06-p20
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+                              * project04: l06-p20
+                              DC transfer characteristic  Sun Mar 20 12:52:28  2022
+--------------------------------------------------------------------------------
+Index   v-sweep         v(a)            v(b)            v(c)            
+--------------------------------------------------------------------------------
+0	5.000000e+00	5.000000e+00	8.333333e+00	8.333333e+00	
+
+                              * project04: l06-p20
+                              DC transfer characteristic  Sun Mar 20 12:52:28  2022
+--------------------------------------------------------------------------------
+Index   v-sweep         v(d)            
+--------------------------------------------------------------------------------
+0	5.000000e+00	8.333333e+00	
+
+                              * project04: l06-p20
+                              DC transfer characteristic  Sun Mar 20 12:52:28  2022
+--------------------------------------------------------------------------------
+Index   v-sweep         v(a)-v(b)       v(d)            
+--------------------------------------------------------------------------------
+0	5.000000e+00	-3.33333e+00	8.333333e+00	
+
+                              * project04: l06-p20
+                              DC transfer characteristic  Sun Mar 20 12:52:28  2022
+--------------------------------------------------------------------------------
+Index   v-sweep         vdr1#branch     vdr2#branch     
+--------------------------------------------------------------------------------
+0	5.000000e+00	-3.33333e-01	-1.66667e+00	
+
+
+Total analysis time (seconds) = 0.001
+
+Total elapsed time (seconds) = 0.004 
+
+Total DRAM available = 3889.320 MB.
+DRAM currently available =  608.613 MB.
+Maximum ngspice program size =   24.078 MB.
+Current ngspice program size =   11.277 MB.
+
+Shared ngspice pages =    9.500 MB.
+Text (code) pages =    5.270 MB.
+Stack = 0 bytes.
+Library pages =    2.039 MB.
+
