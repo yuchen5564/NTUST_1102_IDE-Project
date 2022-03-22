@@ -21,5 +21,5 @@ r3 e 0 50
 * Output current of each path
 .print dc i(vdr1) i(vdr2) i(vdr3)
 
- 
-.end
+.end 
+
